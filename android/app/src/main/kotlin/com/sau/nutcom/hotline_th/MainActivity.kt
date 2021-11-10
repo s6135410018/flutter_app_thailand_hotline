@@ -1,4 +1,4 @@
-package com.example.flutter_app_thailand_hotline
+package com.sau.nutcom.hotline_th
 
 import io.flutter.embedding.android.FlutterActivity
 
